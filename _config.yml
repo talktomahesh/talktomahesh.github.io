@@ -1,6 +1,6 @@
 title: "Maheshkumar Paulraj"
 description: "IAM Engineer | Identity & Access Management Specialist"
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-slate
 minimal_mistakes_skin: "dark"   # options: default, dark, mint, neon, air, contrast
 
 plugins:
