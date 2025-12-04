@@ -88,6 +88,6 @@ Developed scripts and automation logic to standardize identity operations and re
 
 I’m always open to exploring new opportunities, discussing IAM challenges, or collaborating on projects.
 
-LinkedIn: Add your link here
+LinkedIn: https://www.linkedin.com/in/mshkmr/
 
-Email: Add your email here
+Email: maheshpss@proton.me
