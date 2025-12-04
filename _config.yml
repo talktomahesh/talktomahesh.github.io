@@ -1,17 +1,12 @@
 title: "Maheshkumar Paulraj"
-description: "IAM Engineer | Identity & Access Management Specialist"
-theme: jekyll-theme-cayman
-minimal_mistakes_skin: "dark"   # options: default, dark, mint, neon, air, contrast
+description: "IAM Professional | Identity Lifecycle | Active Directory | Cloud IAM"
+theme: jekyll-theme-slate
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-author:
-  name: "Maheshkumar Paulraj"
-  avatar: "/assets/images/profile.jpg"
-  bio: "IAM Engineer specializing in identity lifecycle management, automation, and directory services."
-
+# Optional but recommended:
 markdown: kramdown
 highlighter: rouge
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
